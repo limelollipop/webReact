@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/limelollipop/webReact.git/static/css/main.21640563.css",
+    "main.js": "/limelollipop/webReact.git/static/js/main.57cfa001.js",
+    "index.html": "/limelollipop/webReact.git/index.html",
+    "main.21640563.css.map": "/limelollipop/webReact.git/static/css/main.21640563.css.map",
+    "main.57cfa001.js.map": "/limelollipop/webReact.git/static/js/main.57cfa001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21640563.css",
+    "static/js/main.57cfa001.js"
+  ]
+}
